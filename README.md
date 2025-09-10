@@ -19,6 +19,8 @@
 - **[1. Introduction](markdown/1-Introduction.md)** — *What IoT is and why it matters.*  
   Covers the basic definition (**IoT = Sensors + Networks + Data + Services**), the distinction between **IT** (secure connectivity among servers, DBs, apps) and **OT** (industrial operations with sensors/devices), and an overview of **Smart Objects** (sensing, compute, communication, actuation) with their core components (sensors, processing unit, memory, actuators, communication unit, power source). Introduces the idea of recurring **IoT architectures** and ubiquitous computing.
 
+- **[2. IoT Architectures](markdown/2-IoTArch.md)**
+
 ---
 
 
