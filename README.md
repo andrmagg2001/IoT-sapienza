@@ -25,6 +25,13 @@
   Details **M2M communication** and the main **network types** (PAN, HAN, NAN, FAN, LAN, LPWAN, Cellular), along with common **topologies** (Star, Clustered Star, Mesh, Tree).  
   Introduces the role of **Gateways** vs **Routers**, and the distribution of compute between **Edge, Fog, and Cloud**. Includes an example of **Fall Detection** optimisation problem (task offloading, cost minimisation, NP-complete nature).
 
+
+  - **[3. IoT Devices](markdown/3-Devices.md)**
+    — *Sensors and actuators in IoT systems.*  
+    Introduces the role of **sensors** (transducers that convert physical signals into electrical ones) and their main types (e.g., accelerometers, gyroscopes, gas, humidity, touch, load cells, temperature).  
+    Explains the concept of **ideal vs real sensors** (sensitivity, noise, non-linearity, bandwidth) and models of response.  
+    Presents **actuators** as components that act on the environment, describing their motion (linear/rotary) and main energy sources (hydraulic, pneumatic, electric, thermal, magnetic).
+
 ---
 
 
