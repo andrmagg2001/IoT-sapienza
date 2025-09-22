@@ -26,11 +26,8 @@
   Introduces the role of **Gateways** vs **Routers**, and the distribution of compute between **Edge, Fog, and Cloud**. Includes an example of **Fall Detection** optimisation problem (task offloading, cost minimisation, NP-complete nature).
 
 
-  - **[3. IoT Devices](markdown/3-Devices.md)**
-    — *Sensors and actuators in IoT systems.*  
-    Introduces the role of **sensors** (transducers that convert physical signals into electrical ones) and their main types (e.g., accelerometers, gyroscopes, gas, humidity, touch, load cells, temperature).  
-    Explains the concept of **ideal vs real sensors** (sensitivity, noise, non-linearity, bandwidth) and models of response.  
-    Presents **actuators** as components that act on the environment, describing their motion (linear/rotary) and main energy sources (hydraulic, pneumatic, electric, thermal, magnetic).
+- **[3. IoT Devices](markdown/3-Devices.md)** — *Sensors, actuators, embedded systems, energy, and stochastic models.
+Covers sensors (types, ideal vs real, models) and actuators (motion, energy sources). Introduces embedded systems (MCUs, SoCs, Cortex-M, buses, memory, interrupts), with focus on cost/energy trade-offs, low-power modes, and optimisation strategies. Explains energy harvesting (sources, techniques, optimisation), and presents stochastic modelling tools: Markov Chains (transition matrices, stationary distributions, irreducibility, periodicity, Fundamental Theorem) and Markov Decision Processes (states, actions, policies, rewards, Bellman equations, optimality, dynamic programming, Q-learning).
 
 ---
 
