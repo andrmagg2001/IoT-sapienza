@@ -9,7 +9,7 @@
 
 - **Fast revision:** condensed concepts, definitions, and diagrams.
 - **Clear structure:** each chapter mirrors the official syllabus.
-- **Bilingual content:** most notes provide **IT + EN** side by side (where relevant).
+- **Bilingual content:** most notes provide side by side (where relevant).
 - **Open to fixes:** typos, clarifications, and small improvements via Issues/PRs.
 
 ---
