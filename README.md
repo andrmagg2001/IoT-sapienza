@@ -29,6 +29,9 @@
 - **[3. IoT Devices](markdown/3-Devices.md)** — *Sensors, actuators, embedded systems, energy, and stochastic models.
 Covers sensors (types, ideal vs real, models) and actuators (motion, energy sources). Introduces embedded systems (MCUs, SoCs, Cortex-M, buses, memory, interrupts), with focus on cost/energy trade-offs, low-power modes, and optimisation strategies. Explains energy harvesting (sources, techniques, optimisation), and presents stochastic modelling tools: Markov Chains (transition matrices, stationary distributions, irreducibility, periodicity, Fundamental Theorem) and Markov Decision Processes (states, actions, policies, rewards, Bellman equations, optimality, dynamic programming, Q-learning).
 
+- **[4. Information Theory](markdown/4-Information.md)** — *Entropy, binary encodings, mutual information, and communication channels.*  
+Covers **entropy** as a measure of uncertainty (discrete and differential forms), **information content/surprisal**, and **binary entropy**. Introduces **binary encodings** of finite alphabets, with focus on variable-length, prefix-free and uniquely decodable codes. Explores **joint entropy** and **mutual information** to quantify dependencies between random variables. Describes **Discrete Memoryless Channels (DMC)** via transition probability matrices, including their role in modelling communication systems. Extends to **Gaussian channels**, presenting **differential entropy** and the **Shannon–Hartley theorem** for channel capacity as a function of bandwidth and signal-to-noise ratio (SNR).
+
 ---
 
 
