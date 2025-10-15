@@ -81,7 +81,7 @@ with the condition:
 P[X_{n+1} = s \mid X_0 = s_0] = p^{(n+1)}_{s_0, s}
 ```
 
-where \(p^{(n+1)}_{i,j}\) is the \((i,j)\)-th element of the matrix \(P^{\,n+1}\).
+where $(p^{(n+1)}_{i,j})$ is the $((i,j))-th$ element of the matrix $(P^{\,n+1})$.
 
 **Observation 1.1**
 
